@@ -1,0 +1,4 @@
+name: theAntiSpawn
+version: '1.0'
+main: com.loginor4ik.theAntiSpawn.TheAntiSpawn
+api-version: '1.21'
